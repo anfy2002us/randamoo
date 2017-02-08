@@ -1,0 +1,2 @@
+# randamoo
+Random object generator
